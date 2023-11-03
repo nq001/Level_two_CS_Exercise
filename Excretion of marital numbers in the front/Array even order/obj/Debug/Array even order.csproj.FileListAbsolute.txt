@@ -1,0 +1,8 @@
+C:\Users\naif\source\repos\Array even order\Array even order\bin\Debug\Array even order.exe.config
+C:\Users\naif\source\repos\Array even order\Array even order\bin\Debug\Array even order.exe
+C:\Users\naif\source\repos\Array even order\Array even order\bin\Debug\Array even order.pdb
+C:\Users\naif\source\repos\Array even order\Array even order\obj\Debug\Array even order.csproj.AssemblyReference.cache
+C:\Users\naif\source\repos\Array even order\Array even order\obj\Debug\Array even order.csproj.SuggestedBindingRedirects.cache
+C:\Users\naif\source\repos\Array even order\Array even order\obj\Debug\Array even order.csproj.CoreCompileInputs.cache
+C:\Users\naif\source\repos\Array even order\Array even order\obj\Debug\Array even order.exe
+C:\Users\naif\source\repos\Array even order\Array even order\obj\Debug\Array even order.pdb
