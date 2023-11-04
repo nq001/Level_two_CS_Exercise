@@ -1,0 +1,16 @@
+C:\Users\naif\source\repos\Assignment OOP Lab 1\Assignment OOP Lab 1\bin\Debug\Assignment OOP Lab 1.exe.config
+C:\Users\naif\source\repos\Assignment OOP Lab 1\Assignment OOP Lab 1\bin\Debug\Assignment OOP Lab 1.exe
+C:\Users\naif\source\repos\Assignment OOP Lab 1\Assignment OOP Lab 1\bin\Debug\Assignment OOP Lab 1.pdb
+C:\Users\naif\source\repos\Assignment OOP Lab 1\Assignment OOP Lab 1\obj\Debug\Assignment OOP Lab 1.csproj.AssemblyReference.cache
+C:\Users\naif\source\repos\Assignment OOP Lab 1\Assignment OOP Lab 1\obj\Debug\Assignment OOP Lab 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\naif\source\repos\Assignment OOP Lab 1\Assignment OOP Lab 1\obj\Debug\Assignment OOP Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\naif\source\repos\Assignment OOP Lab 1\Assignment OOP Lab 1\obj\Debug\Assignment OOP Lab 1.exe
+C:\Users\naif\source\repos\Assignment OOP Lab 1\Assignment OOP Lab 1\obj\Debug\Assignment OOP Lab 1.pdb
+D:\Learn\univer\Leactur CS 23 24\Assingments\OOP L\practis\Assignment OOP Lab 1\Assignment OOP Lab 1\bin\Debug\Assignment OOP Lab 1.exe.config
+D:\Learn\univer\Leactur CS 23 24\Assingments\OOP L\practis\Assignment OOP Lab 1\Assignment OOP Lab 1\bin\Debug\Assignment OOP Lab 1.exe
+D:\Learn\univer\Leactur CS 23 24\Assingments\OOP L\practis\Assignment OOP Lab 1\Assignment OOP Lab 1\bin\Debug\Assignment OOP Lab 1.pdb
+D:\Learn\univer\Leactur CS 23 24\Assingments\OOP L\practis\Assignment OOP Lab 1\Assignment OOP Lab 1\obj\Debug\Assignment OOP Lab 1.csproj.AssemblyReference.cache
+D:\Learn\univer\Leactur CS 23 24\Assingments\OOP L\practis\Assignment OOP Lab 1\Assignment OOP Lab 1\obj\Debug\Assignment OOP Lab 1.csproj.SuggestedBindingRedirects.cache
+D:\Learn\univer\Leactur CS 23 24\Assingments\OOP L\practis\Assignment OOP Lab 1\Assignment OOP Lab 1\obj\Debug\Assignment OOP Lab 1.csproj.CoreCompileInputs.cache
+D:\Learn\univer\Leactur CS 23 24\Assingments\OOP L\practis\Assignment OOP Lab 1\Assignment OOP Lab 1\obj\Debug\Assignment OOP Lab 1.exe
+D:\Learn\univer\Leactur CS 23 24\Assingments\OOP L\practis\Assignment OOP Lab 1\Assignment OOP Lab 1\obj\Debug\Assignment OOP Lab 1.pdb
