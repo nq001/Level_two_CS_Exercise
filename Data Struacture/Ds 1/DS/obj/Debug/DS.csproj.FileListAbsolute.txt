@@ -1,0 +1,8 @@
+C:\Users\naif\source\repos\DS\DS\bin\Debug\DS.exe.config
+C:\Users\naif\source\repos\DS\DS\bin\Debug\DS.exe
+C:\Users\naif\source\repos\DS\DS\bin\Debug\DS.pdb
+C:\Users\naif\source\repos\DS\DS\obj\Debug\DS.csproj.AssemblyReference.cache
+C:\Users\naif\source\repos\DS\DS\obj\Debug\DS.csproj.SuggestedBindingRedirects.cache
+C:\Users\naif\source\repos\DS\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\naif\source\repos\DS\DS\obj\Debug\DS.exe
+C:\Users\naif\source\repos\DS\DS\obj\Debug\DS.pdb
