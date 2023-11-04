@@ -1,0 +1,16 @@
+# file = open(r"D:\Learn\univer\PAU\P\naif.txt","r")
+# print(file.read()) 
+# file.close()
+
+# read => to tead file only
+# append => to append to file or if file not exisit, it creat new file and it not delelte any thing
+# write => to write in file and the same descripe append but it delete all things in file and create new file
+
+# file = open(r"D:\Learn\univer\PAU\P\naif.txt","w")
+# print(file.write()) 
+# file.close()
+
+
+file = open(r"D:\Learn\univer\PAU\P\naif.txt","a")
+print(file.append("saleh")) 
+file.close()
