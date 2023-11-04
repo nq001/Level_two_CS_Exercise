@@ -1,0 +1,16 @@
+C:\Users\naif\source\repos\prime number\prime number\bin\Debug\prime number.exe.config
+C:\Users\naif\source\repos\prime number\prime number\bin\Debug\prime number.exe
+C:\Users\naif\source\repos\prime number\prime number\bin\Debug\prime number.pdb
+C:\Users\naif\source\repos\prime number\prime number\obj\Debug\prime number.csproj.AssemblyReference.cache
+C:\Users\naif\source\repos\prime number\prime number\obj\Debug\prime number.csproj.SuggestedBindingRedirects.cache
+C:\Users\naif\source\repos\prime number\prime number\obj\Debug\prime number.csproj.CoreCompileInputs.cache
+C:\Users\naif\source\repos\prime number\prime number\obj\Debug\prime number.exe
+C:\Users\naif\source\repos\prime number\prime number\obj\Debug\prime number.pdb
+D:\Learn\univer\Leactur CS 23 24\Assingments\OOP L\code\prime number\prime number\bin\Debug\prime number.exe.config
+D:\Learn\univer\Leactur CS 23 24\Assingments\OOP L\code\prime number\prime number\bin\Debug\prime number.exe
+D:\Learn\univer\Leactur CS 23 24\Assingments\OOP L\code\prime number\prime number\bin\Debug\prime number.pdb
+D:\Learn\univer\Leactur CS 23 24\Assingments\OOP L\code\prime number\prime number\obj\Debug\prime number.csproj.AssemblyReference.cache
+D:\Learn\univer\Leactur CS 23 24\Assingments\OOP L\code\prime number\prime number\obj\Debug\prime number.csproj.SuggestedBindingRedirects.cache
+D:\Learn\univer\Leactur CS 23 24\Assingments\OOP L\code\prime number\prime number\obj\Debug\prime number.csproj.CoreCompileInputs.cache
+D:\Learn\univer\Leactur CS 23 24\Assingments\OOP L\code\prime number\prime number\obj\Debug\prime number.exe
+D:\Learn\univer\Leactur CS 23 24\Assingments\OOP L\code\prime number\prime number\obj\Debug\prime number.pdb
